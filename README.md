@@ -18,17 +18,17 @@ I program various **open-source and closed-source** tools, web application devel
 #
 ## 🌐 Where to find me
 <p align="left">
-  <a href="https://github.com/nexusdev999">
-    <img src="https://img.shields.io/badge/GitHub-nexusdev999-181717?style=for-the-badge&logo=github" />
+  <a href="https://github.com/The-voidx">
+    <img src="https://img.shields.io/badge/GitHub-The-voidx-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://instagram.com/eu_nike999?igsh=NGd4MTMwamJ1aGhj">
-    <img src="https://img.shields.io/badge/Instagram-@eu_nike999-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="https://instagram.com/The_void?igsh=NGd4MTMwamJ1aGhj">
+    <img src="https://img.shields.io/badge/Instagram-@The_void-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://www.tiktok.com/@newnexus36">
-    <img src="https://img.shields.io/badge/TikTok-@newnexus36-000000?style=for-the-badge&logo=tiktok" />
+  <a href="https://www.tiktok.com/@The_voidx">
+    <img src="https://img.shields.io/badge/TikTok-@The_voidx-000000?style=for-the-badge&logo=tiktok" />
   </a>
-  <a href="https://www.youtube.com/@nexus_tech-dev">
-    <img src="https://img.shields.io/badge/YouTube-nexux_tech-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  <a href="https://www.youtube.com/@The_voidx">
+    <img src="https://img.shields.io/badge/YouTube-The_voidx-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 </p>
 
