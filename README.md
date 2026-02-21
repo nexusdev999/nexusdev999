@@ -19,7 +19,7 @@ I program various **open-source and closed-source** tools, web application devel
 ## 🌐 Where to find me
 <p align="left">
   <a href="https://github.com/The-voidx">
-    <img src="https://img.shields.io/badge/GitHub-The-voidx-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-The void-181717?style=for-the-badge&logo=github" />
   </a>
   <a href="https://instagram.com/The_void?igsh=NGd4MTMwamJ1aGhj">
     <img src="https://img.shields.io/badge/Instagram-@The_void-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
