@@ -2,7 +2,7 @@
   <img height="200" src="https://i.pinimg.com/736x/15/bc/67/15bc67af24813e5ebf660a81a2c52c69.jpg"  />
 </div>
 
-# Hi 👋, Im nexux_dev
+# Hi 👋, Im The void
 🛸**I am a student who knows and studies computer science, cybersecurity, programming, and software engineering. I study and know Python, C++, C, JavaScript, HTML, CSS, TypeScript, and React** <br>
 🇧🇷 brazil
 
