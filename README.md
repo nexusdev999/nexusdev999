@@ -3,7 +3,7 @@
 </div>
 
 # Hi 👋, Im The void
-🛸**I am a student who knows and studies computer science, cybersecurity, programming, and software engineering. I study and know Python, C++, C, JavaScript, HTML, CSS, TypeScript, and React** <br>
+🛸**I am a student who knows and studies computer science, cybersecurity, programming, and software engineering. I study and know Python, C++, C, JavaScript, HTML, CSS, TypeScript, java, SQL, PHP, node.js and React** <br>
 🇧🇷 brazil
 
 **My focus is to learn as much as possible about computing, regardless of the area.**
