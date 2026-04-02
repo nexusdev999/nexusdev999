@@ -196,7 +196,7 @@ I program various **open-source and closed-source** tools, web application devel
 
 ### recent songs
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31iyrlsep27mbetfyiu4ybf3b77q&width={width})
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31iyrlsep27mbetfyiu4ybf3b77q)
 
 
 
