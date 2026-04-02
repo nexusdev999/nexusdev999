@@ -201,10 +201,6 @@ I program various **open-source and closed-source** tools, web application devel
 
 
 
-
-<img src="https://raw.githubusercontent.com/The-voidx/The-voidx/output/snake.svg" alt="Snake animation" />
-
-
 ###
 
 <div>
