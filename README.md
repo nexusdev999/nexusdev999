@@ -150,6 +150,7 @@ I program various **open-source and closed-source** tools, web application devel
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height="40" alt="gimp logo"  />
 </div>
+
 ###
 
 <div align="left">
