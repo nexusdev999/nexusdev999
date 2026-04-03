@@ -1,8 +1,8 @@
 <div align="center">
-  <img height="200" src="https://i.pinimg.com/736x/33/07/66/33076627a358c8c5aba6a61722f18324.jpg" />
+  <img height="400" src="https://i.pinimg.com/736x/33/07/66/33076627a358c8c5aba6a61722f18324.jpg" />
 </div>
 
-# Hi 👋, Im The void
+# Hi 👋, Im davy
 🛸**I am a student who knows and studies computer science, cybersecurity, programming, and software engineering. I study and know Python, C++, C, JavaScript, HTML, CSS, TypeScript, java, SQL, PHP, node.js and React** <br>
 🇧🇷 brazil
 
