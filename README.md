@@ -17,6 +17,7 @@ I program various **open-source and closed-source** tools, web application devel
 
 #
 ## 🌐 Where to find me
+
 <p align="left">
   <a href="https://github.com/The-voidx">
     <img src="https://img.shields.io/badge/GitHub-The void-181717?style=for-the-badge&logo=github" />
@@ -45,7 +46,9 @@ I program various **open-source and closed-source** tools, web application devel
 -   🔐 Secure APIs & authentication
 -   🤖 Automation & integrations & applicatons
 -   🎓 student high school
+   
 ---
+
 ## 🛠️ Tech Stack
 ### Systens
 <div align="left">
